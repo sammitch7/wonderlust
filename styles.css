@@ -383,9 +383,7 @@ header h1+p {
     font-weight: bold;
     font-style: italic;
 }
-#legal h2 {
-    visibility: hidden;
-}
+
 #legal {
     display: grid;
     grid-template-columns: 1fr 1fr;
